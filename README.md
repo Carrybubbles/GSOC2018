@@ -16,7 +16,7 @@ mvn exec:java -D exec.mainClass=ru.nsu.fedin.app.App
 
 ## Built With
 * [Maven](https://maven.apache.org/) - Dependency Management
-
+* [JGraphT](https://www.jgraph.com/) - Java Graph Library
 ## Authors
 * **Artem Fedin**
 	
